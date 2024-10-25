@@ -26,5 +26,5 @@ Isso abrirá o painel interativo no navegador.
 4. Estrutura do projeto
 Dashboard_1.py: Script principal que carrega e processa os dados.
 Dashboard_2.py: Script do painel interativo.
-Contribuição
+7. Contribuição
 Sinta-se à vontade para contribuir com melhorias para o projeto. Para isso, faça um fork do repositório, faça suas alterações e envie um pull request.
