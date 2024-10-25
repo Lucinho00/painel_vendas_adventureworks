@@ -18,12 +18,12 @@ Este projeto é um painel interativo de vendas utilizando a biblioteca Streamlit
    ```bash
    git clone https://github.com/USERNAME/painel_vendas_adventureworks.git
    cd painel_vendas_adventureworks
-2.Instalar as dependências: Navegue até a pasta do projeto e execute o seguinte comando para instalar as dependências:
+2. Instalar as dependências: Navegue até a pasta do projeto e execute o seguinte comando para instalar as dependências:
 pip install -r requirements.txt
-3.Executar o projeto: Na pasta do projeto, execute o seguinte comando:
+3. Executar o projeto: Na pasta do projeto, execute o seguinte comando:
 streamlit run Dashboard_1.py
 Isso abrirá o painel interativo no navegador.
-Estrutura do projeto
+4. Estrutura do projeto
 Dashboard_1.py: Script principal que carrega e processa os dados.
 Dashboard_2.py: Script do painel interativo.
 Contribuição
